@@ -1,16 +1,37 @@
-### Hi there 👋
+# CADP
+#Algoritmos que se repiten
 
-<!--
-**PruebaArn/PruebaArn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#sacando 2 Minimos y 2 Maximos, con 2 nombres vinculados
 
-Here are some ideas to get you started:
+```
+  //2 minimos vinculado a 2 nombres
+  if (numero <= min1) then
+    begin
+      min2 := min1;
+      nombre2:= nombre1
+      min1 := numero;
+      nombre1:= nombreActual;
+    end
+  else if(numero <= min2>) then
+    begin
+      min2:= numero;
+      nombre1:= nombreActual;
+    end;
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#sacando 2 Minimos y 2 Maximos, con un nombre vinculado
+  ```
+     //2 maximos vinculado a 2 nombres
+  if (numero >= max1) then
+    begin
+      max2:= max1;
+      nombre2:= nombre1;
+      max1:= numero;
+      nombre1:= nombreActual
+    end
+  else if (numero >= max2) then
+    begin
+      max2:= numero;
+      nombre2:= nombreActual;
+    end; 
+  ```
