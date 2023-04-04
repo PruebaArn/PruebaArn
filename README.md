@@ -20,7 +20,7 @@
     end;
 ```
 
-<p align="center">sacando 2 Minimos y 2 Maximos, con un nombre vinculado </p>
+<p class="center">sacando 2 Minimos y 2 Maximos, con un nombre vinculado </p>
 ```
      //2 maximos vinculado a 2 nombres
   if (numero >= max1) then
