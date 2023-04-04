@@ -2,7 +2,7 @@
 
 <p align="center">Algoritmos que se repiten</p>
 
-<p align="center"> sacando 2 Minimos y 2 Maximos, con 2 nombres vinculados </p>
+<p align="center"> sacando 2 Minimos y 2 Maximos, con 2 nombres vinculados 
 
 ```
   //2 minimos vinculado a 2 nombres
@@ -20,7 +20,8 @@
     end;
 ```
 
-<a class="center"> sacando 2 Minimos y 2 Maximos, con un nombre vinculado </a>
+ sacando 2 Minimos y 2 Maximos, con un nombre vinculado 
+
 ```
      //2 maximos vinculado a 2 nombres
   if (numero >= max1) then
@@ -36,3 +37,4 @@
       nombre2:= nombreActual;
     end; 
 ```
+</p>
