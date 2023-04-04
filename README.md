@@ -1,4 +1,5 @@
-# CADP
+<p align="center"= center;># CADP</p>
+
 #Algoritmos que se repiten
 
 #sacando 2 Minimos y 2 Maximos, con 2 nombres vinculados
