@@ -1,4 +1,4 @@
-# CADP
+<h1align="center"> CADP </h1>
 
 <p align="center">Algoritmos que se repiten</p>
 
