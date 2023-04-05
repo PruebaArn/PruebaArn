@@ -1,10 +1,10 @@
-<h1align="center"> CADP </h1>
+<h1 align="center"> CADP </h1>
 
 <p align="center">Algoritmos que se repiten</p>
 
 <p align="center"> sacando 2 Minimos y 2 Maximos, con 2 nombres vinculados </p>
 
-```
+``` 
   //2 minimos vinculado a 2 nombres
   if (numero <= min1) then
     begin
@@ -37,4 +37,3 @@
       nombre2:= nombreActual;
     end; 
 ```
-
