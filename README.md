@@ -56,3 +56,6 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
   <img src="https://media1.giphy.com/media/mYPi9dLobwN9LDuEtj/200w.webp?cid=dda24d5081e522144ff036caffac1c801f390987387e98e7&rid=200w.webp&ct=g" width="100%" height="3px"/>
 
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelArn&show_icons=true&theme=github_dark&hide=prs,contribs)
