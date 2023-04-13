@@ -35,6 +35,8 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
 </div>
 </td></tr></table>
 
+
+ <h2 align="center" > </h2>
  <!-- Contact-->
 
 <!-- <h2 align="center" >Connect with me </h2> 
@@ -50,11 +52,11 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
  <!--ComponentGraficos -->
 
 <!-- <br> -->
-<!-- <div align="center"
+<div align="center"
   <p>
     <img width="50%" height= "220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelArn&langs_count=10&theme=tokyonight&layout=compact"/>  
   </p>
-</div>  -->
+</div> 
 <!-- <div 
   align="center"><img src="https://github-readme-stats.vercel.app/api?username=nahuelArn&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>   -->
